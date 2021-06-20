@@ -1,4 +1,4 @@
-## Big Cody SimpleMenu Theme
+## Big Cody - 320x240 SimpleMenu Theme
 
 Based on https://github.com/CodyV59/es-theme-epic-cody-RG351V
 
